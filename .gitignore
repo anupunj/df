@@ -1,0 +1,15 @@
+.venv
+__pycache__
+kfclient/kfclient/python_parser/analyzer/main.py
+credentials.json
+app.log
+parser_output
+analysis_results
+build
+dist
+projects
+logs
+*.log
+.env
+flets
+output.json
